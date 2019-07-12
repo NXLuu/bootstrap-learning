@@ -1,0 +1,47 @@
+body {
+	height: 100vh;
+	width: 100%;
+	background-image: url(img/home-bg.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+
+/*------------navbar-style------------*/
+/*nav-link {
+	color: rgba(255, 255, 255, 0.87)!important;
+}
+
+.dropdown-custom {
+	border-top: 1px solid #5d5d5d;
+	padding-top: 10px;
+}
+body {
+	
+}
+
+.mr-auto {
+	color: white!important;
+}
+
+button:focus {
+	outline: none!important;
+}
+
+
+
+/ Extra small (xs) devices (portrait phones, less than 576px)
+@media (max-width: 575.98px) { ... }
+
+// Small devices (sm) (landscape phones, 576px and up)
+@media (min-width: 576px) and (max-width: 767.98px) { ... }
+
+// Medium devices (md) (tablets, 768px and up)
+@media (min-width: 768px) and (max-width: 991.98px) { ... }
+
+// Large devices (lg) (desktops, 992px and up)
+@media (min-width: 992px) and (max-width: 1199.98px) { ... }
+
+// Extra large devices (xl) (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }*/
